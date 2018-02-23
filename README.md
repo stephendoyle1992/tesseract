@@ -1,0 +1,1 @@
+using tesseract OCR to convert pictures of an old german notebook
