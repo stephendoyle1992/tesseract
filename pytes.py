@@ -5,9 +5,6 @@ import argparse
 import cv2
 import os
 
-#using a windows system, replace this with the path to you tesseract executable
-pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe'
-
 #testing with one image
 #likely switching to directory next
 argp = argparse.ArgumentParser()
